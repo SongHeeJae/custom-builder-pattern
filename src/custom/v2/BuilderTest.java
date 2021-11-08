@@ -1,4 +1,4 @@
-package custom;
+package custom.v2;
 
 public class BuilderTest {
     public static void main(String[] args) {
@@ -7,8 +7,7 @@ public class BuilderTest {
                 .firstName("Song")
                 .lastName("HeeJae")
                 .age(26)
-                .phoneNumber("01012345678")
-                .build();
+                .phoneNumber("01012345678").build();
 
         System.out.println("person = " + person);
     }

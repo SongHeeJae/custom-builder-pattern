@@ -1,4 +1,4 @@
-package custom;
+package custom.v1;
 
 public class Person {
     private String firstName;
