@@ -5,4 +5,4 @@ builder pattern 변형
 지극히 주관적인 코드며, 이 또한 명확한 단점이 있기 때문에 개선이 아니라 변형이라고 칭하였습니다.
 
 변형을 시작한 동기와 문제점, 변형 과정은 아래 링크에 정리되어있습니다.
-https://blog.naver.com/gmlwo308/222561418583
+https://kukekyakya.tistory.com/4
